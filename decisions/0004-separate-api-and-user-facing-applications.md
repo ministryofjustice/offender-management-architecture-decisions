@@ -47,7 +47,7 @@ calls to network calls and by introducing more moving parts which need to be
 deployed. However we expect the number of microservices to remain relatively
 small so do not anticipate this complexity to be significant for us.
 
-Our choice of the Kubernetes-based Cloud Platform for hosting (see ADR 0002)
+Our choice of the Kubernetes-based Cloud Platform for hosting (see [ADR 0002](0002-use-cloud-platform-for-hosting.md))
 should make it easier to scale small services efficiently and independently.
 It also gives us easy access to tooling designed to support many small
 services.
@@ -62,7 +62,7 @@ We will start off with two applications for allocation:
 - an allocation API which will call other APIs (to read data from NOMIS, and
   in future Delius and OASys)
 - an allocation frontend which will call the allocation API and serve
-  progressively enhanced HTML to users (see ADR 0003)
+  progressively enhanced HTML to users (see [ADR 0003](0003-use-progressive-enhancement.md))
 
 ## Consequences
 
