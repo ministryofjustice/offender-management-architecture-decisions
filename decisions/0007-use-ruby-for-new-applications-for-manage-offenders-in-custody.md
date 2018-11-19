@@ -43,9 +43,11 @@ Python. It is unrealistic to expect people to be equally proficient in many
 languages at the same time.
 
 The team have already committed to learning about Kubernetes for the new Cloud
-Platform (see ADR 0002) and to learning Java so that we can collaborate on the
-APIs which are being built in Sheffield (see ADR 0006). This is already a
-significant proportion of unfamiliar technologies for the team to learn and use.
+Platform (see [ADR 0002](0002-use-cloud-platform-for-hosting.md)) and to
+learning Java so that we can collaborate on the APIs which are being built in
+Sheffield (see [ADR 0006](0006-use-the-custody-api-to-access-nomis-data.md)).
+This is already a significant proportion of unfamiliar technologies for the
+team to learn and use.
 
 Developing applications involves much more than using the standard library of
 a language. The ecosystem of libraries tools around that language often takes
@@ -81,10 +83,10 @@ Using the same language for groups of similar services can make it easier to
 provide a coherent experience for users by allowing presentation code to be
 shared more easily between services. However, the same HTML structure of pages
 can be produced by services written in different languages. Since we are
-committed to progressive enhancement (see ADR 0003), we will use client-side
-JavaScript solely to enhance the functionality of those pages, and that
-JavaScript can be reused across services regardless of the language used on the
-server.
+committed to progressive enhancement (see [ADR 0003](0003-use-progressive-enhancement.md)),
+we will use client-side JavaScript solely to enhance the functionality of those
+pages, and that JavaScript can be reused across services regardless of the
+language used on the server.
 
 As an example of this approach, there is a strong and active cross-government
 community which develops, researches and supports design patterns, styles and
@@ -105,8 +107,9 @@ our users' needs, and we will contribute what we learn back to the HMPPS and
 cross-government communities.
 
 Since it has been agreed that all services which need to use a NOMIS API should
-migrate to the Custody API (see ADR 0006), any API client library which we
-build in Ruby can be reused by other Ruby services to ease their migration.
+migrate to the Custody API (see [ADR 0006](0006-use-the-custody-api-to-access-nomis-data.md)),
+any API client library which we build in Ruby can be reused by other Ruby
+services to ease their migration.
 
 ### Operational considerations
 
