@@ -18,6 +18,7 @@ see [ADR-0001](decisions/0001-record-architecture-decisions.md).
 * ✅ [7. Use Ruby for new applications for Manage Offenders in Custody](decisions/0007-use-ruby-for-new-applications-for-manage-offenders-in-custody.md)
 * ✅ [8. Use Rails](decisions/0008-use-rails.md)
 * ✅ [9. Use CircleCI for CI and deployment](decisions/0009-use-circleci-for-ci-and-deployment.md)
+* ✅ [10. Allocation API has less responsibility](decisions/0010-allocation-api-has-less-responsibility.md)
 
 ### Statuses:
 
