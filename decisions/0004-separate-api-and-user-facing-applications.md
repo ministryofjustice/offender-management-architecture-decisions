@@ -6,6 +6,8 @@ Date: 2018-10-12
 
 Accepted
 
+Amended by [10. Allocation API has less responsibility](0010-allocation-api-has-less-responsibility.md)
+
 ## Context
 
 We are moving into beta on allocations, which is the first area of our work on
