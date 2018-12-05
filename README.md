@@ -19,6 +19,7 @@ see [ADR-0001](decisions/0001-record-architecture-decisions.md).
 * ✅ [8. Use Rails](decisions/0008-use-rails.md)
 * ✅ [9. Use CircleCI for CI and deployment](decisions/0009-use-circleci-for-ci-and-deployment.md)
 * ✅ [10. Allocation API has less responsibility](decisions/0010-allocation-api-has-less-responsibility.md)
+* ✅ [11. Use NOMIS OAuth2 server for allocation API authentication](decisions/0011-use-nomis-oauth-server2-for-allocation-api-authentication.md)
 
 ### Statuses:
 
