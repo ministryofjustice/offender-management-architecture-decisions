@@ -21,6 +21,7 @@ see [ADR-0001](decisions/0001-record-architecture-decisions.md).
 * ✅ [10. Allocation API has less responsibility](decisions/0010-allocation-api-has-less-responsibility.md)
 * ✅ [11. Use NOMIS OAuth2 server for allocation API authentication](decisions/0011-use-nomis-oauth-server2-for-allocation-api-authentication.md)
 * ✅ [12. Start out with one environment which uses T3 NOMIS](decisions/0012-start-out-with-one-environment-which-uses-t3-nomis.md)
+* ✅ [13. Use NOMIS SSO for user authentication](decisions/0013-use-nomis-sso-for-user-authentication.md)
 * ✅ [14. Access the Delius API via NDH](decisions/0014-access-the-delius-api-via-ndh.md)
 
 ### Statuses:
