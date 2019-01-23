@@ -35,9 +35,9 @@ the token of the eventual end user, enough flexibility exists for us to
 obtain the data we require from Elite2.
 
 Elite2 provides functionality closer to what we currently require
-and it's design encompasses the need for extra API endpoints for specific
+and its design encompasses the need for extra API endpoints for specific
 services. Moving to Elite2 is a pragmatic, and tactical approach to
-resolving the issues around the Cutody API to allow us to deliver the
+resolving the issues around the Custody API to allow us to deliver the
 allocation component of MOiC. This decision doesn't invalidate the
 overall agreed strategy of moving HMPPS services to the Custody API
 over time, but it highlights that more coordinated work is needed to
