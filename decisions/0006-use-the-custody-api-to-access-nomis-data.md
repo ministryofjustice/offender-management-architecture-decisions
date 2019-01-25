@@ -6,6 +6,8 @@ Date: 2018-10-19
 
 Accepted
 
+Amended by [16. Use the Elite2 API to access NOMIS data](0016-use-elite2-api.md)
+
 ## Context
 
 Our main source of data on prisoners and prison staff which we need for
