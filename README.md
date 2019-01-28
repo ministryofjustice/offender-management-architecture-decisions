@@ -25,6 +25,7 @@ see [ADR-0001](decisions/0001-record-architecture-decisions.md).
 * ✅ [14. Access the Delius API via NDH](decisions/0014-access-the-delius-api-via-ndh.md)
 * ✅ [15. Manage short-lived access tokens in tests](decisions/0015-manage-short-lived-access-tokens-in-test.md)
 * ✅ [16. Use the Elite2 API](decisions/0016-use-the-elite2-api.md)
+* ✅ [17. Database migrations](decisions/0017-database-migrations.md)
 
 ### Statuses:
 
