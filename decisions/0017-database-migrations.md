@@ -1,4 +1,4 @@
-# 17. Database migrations
+# 17. Use blue-green deployments to manage database migrations
 
 Date: 2019-01-24
 
