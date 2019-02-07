@@ -8,6 +8,8 @@ Accepted
 
 Amended by [10. Allocation API has less responsibility](0010-allocation-api-has-less-responsibility.md)
 
+Amended by [18. Unify API and Presentation layer](0018-unify-api-and-presentation-layer.md)
+
 ## Context
 
 We are moving into beta on allocations, which is the first area of our work on

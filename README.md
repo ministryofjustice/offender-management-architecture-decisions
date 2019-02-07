@@ -18,16 +18,17 @@ see [ADR-0001](decisions/0001-record-architecture-decisions.md).
 * ✅ [7. Use Ruby for new applications for Manage Offenders in Custody](decisions/0007-use-ruby-for-new-applications-for-manage-offenders-in-custody.md)
 * ✅ [8. Use Rails](decisions/0008-use-rails.md)
 * ✅ [9. Use CircleCI for CI and deployment](decisions/0009-use-circleci-for-ci-and-deployment.md)
-* ✅ [10. Allocation API has less responsibility](decisions/0010-allocation-api-has-less-responsibility.md)
+* ♻️ [10. Allocation API has less responsibility](decisions/0010-allocation-api-has-less-responsibility.md)
 * ✅ [11. Use NOMIS OAuth2 server for allocation API authentication](decisions/0011-use-nomis-oauth-server2-for-allocation-api-authentication.md)
 * ✅ [12. Start out with one environment which uses T3 NOMIS](decisions/0012-start-out-with-one-environment-which-uses-t3-nomis.md)
 * ✅ [13. Use NOMIS SSO for user authentication](decisions/0013-use-nomis-sso-for-user-authentication.md)
 * ✅ [14. Access the Delius API via NDH](decisions/0014-access-the-delius-api-via-ndh.md)
 * ✅ [15. Manage short-lived access tokens in tests](decisions/0015-manage-short-lived-access-tokens-in-test.md)
 * ✅ [16. Use the Elite2 API](decisions/0016-use-the-elite2-api.md)
-* ✅ [17. Use blue-green deployments to manage database migrations](decisions/0017-Use blue-green deployments to manage database migrations.md)
+* ✅ [17. Use blue-green deployments to manage database migrations](decisions/0017-database-migrations.md)
 * 🤔 [18. Testing TLS mutual auth for Delius API access](decisions/0018-testing-tls-mutual-auth-for-delius-api-access.md)
 * ✅ [19. Manage runtime secrets with git-crypt](decisions/0019-manage-runtime-secrets-with-git-crypt.md)
+* ✅ [20. Unify API and Presentation layer](decisions/0018-unify-api-and-presentation-layer.md)
 
 
 ### Statuses:
