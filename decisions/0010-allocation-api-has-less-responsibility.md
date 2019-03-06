@@ -8,6 +8,8 @@ Accepted
 
 Amends [4. Separate API and user-facing applications](0004-separate-api-and-user-facing-applications.md)
 
+Amended by [18. Unify API and Presentation layer](0018-unify-api-and-presentation-layer.md)
+
 ## Context
 
 When we decided to start off with separate API and user-facing applications
